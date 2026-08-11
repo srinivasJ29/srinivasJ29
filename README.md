@@ -1,103 +1,107 @@
-<div align="center">
-
 # 👋 Hi, I'm Srinivas J
 
-### `Full Stack Developer` • `AI/ML Engineer`
+### `Full Stack Developer` · `AI/ML Engineer` 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Full+Stack+%7C+AI%2FML+%7C+Data;Turning+Ideas+into+Real+Software;Always+Learning.+Always+Building." alt="Typing Animation" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=34D399&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Engineer;Building+Intelligent+Applications;Learning+%7C+Building+%7C+Shipping" alt="Typing animation" />
+</p>
 
-<br/>
-
-<a href="https://github.com/srinivasJ29">
-<img src="https://img.shields.io/badge/GitHub-srinivasJ29-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/sri-nivas-">
-<img src="https://img.shields.io/badge/LinkedIn-Srinivas%20J-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:srinivasjeyakumar13@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=srinivasJ29&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/srinivasJ29">
+    <img src="https://img.shields.io/badge/GitHub-srinivasJ29-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:srinivasjeyakumar13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sri-nivas-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I'm a **Computer Science & Engineering student** focused on building practical software at the intersection of **Full-Stack Development, Artificial Intelligence, Machine Learning, and Data**.
+I'm a **Computer Science & Engineering student** focused on building practical software across:
 
-I enjoy turning ideas into complete applications — from designing interfaces and building REST APIs to connecting databases and integrating intelligent models.
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Full-Stack Development
+* 📊 Data Analytics
+* 🔌 REST API Development
+* 🗄️ Database Systems
+* ☁️ Cloud & AI-integrated applications
+
+I enjoy taking an idea from **concept → architecture → development → deployment**, combining clean interfaces with reliable backend systems and intelligent models.
 
 ```text
 🎓 B.E. Computer Science & Engineering
-📍 PSNA College of Engineering and Technology
+🏫 PSNA College of Engineering and Technology
 📅 2023 — 2027
 💼 Data Analytics Intern — Osiz Technologies
-🧠 Focus: Full Stack Development + AI/ML
+🎯 Focus — Full Stack Development + AI/ML
 🏆 25+ Certifications
 ```
 
 ---
 
-# 🧠 Technical Arsenal
+# ⚡ Technical Arsenal
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,mysql" />
-</p>
-
-`Java` `JavaScript` `Python` `SQL`
-
-### 🎨 Frontend
+## 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" />
 </p>
 
-`React.js` `HTML` `CSS` `Tailwind CSS` `Java Swing`
-
-### ⚙️ Backend & APIs
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring" />
+<img src="https://img.shields.io/badge/React.js-111827?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
 </p>
 
-`Node.js` `Express.js` `Flask` `Spring Boot` `REST APIs`
-
-### 🗄️ Databases
+## ⚙️ Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=009688" />
 </p>
 
-`MongoDB` `MySQL`
-
-### 🤖 AI / Machine Learning
+## 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" />
+<img src="https://img.shields.io/badge/Keras-111827?style=flat-square&logo=keras&logoColor=D00000" />
+<img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
 </p>
 
-`TensorFlow` `PyTorch` `OpenCV` `Keras` `Scikit-learn` `Prompt Engineering`
-
-### 🛠️ Tools & Cloud
+## 🗄️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,postman" />
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" />
 </p>
-
-`Git` `GitHub` `VS Code` `Postman` `Jupyter Notebook` `AWS`
 
 ---
 
-# ⭐ Featured Projects
+# 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ## 🌍 EarthAI
 
@@ -105,171 +109,168 @@ I enjoy turning ideas into complete applications — from designing interfaces a
 
 AI-powered environmental forecasting platform combining machine learning with a full-stack monitoring dashboard.
 
-**What I built**
+**Highlights**
 
-* 🤖 ML regression models for atmospheric forecasting
-* 🛰️ Satellite and sensor dataset integration
-* 📊 Real-time pollution monitoring dashboard
-* 🔌 Node.js REST API integration
-* 📈 Predictive analytics and visualization
-* ⚡ Backend/API performance optimization
+* 🤖 ML regression models
+* 🛰️ Environmental dataset integration
+* 📊 Pollution monitoring
+* 📈 Predictive analytics
+* 🔌 REST API integration
+* ⚡ Backend optimization
 
-**Tech Stack**
+**Stack**
 
-`Python` `TensorFlow` `PyTorch` `React.js` `Node.js` `REST APIs`
+`Python` `TensorFlow` `PyTorch` `React` `Node.js`
 
-<br/>
+<br>
 
 <a href="https://github.com/srinivasJ29/GHG_Fusenet">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+View Repository →
 </a>
 
----
+</td>
+
+<td width="50%">
 
 ## ✋ Hand Sign Recognition
 
-### Real-Time Computer Vision System
+### Real-Time Computer Vision
 
-A real-time hand gesture recognition system using computer vision and deep learning.
+Real-time hand gesture recognition using computer vision and deep learning.
 
-**What I built**
+**Highlights**
 
-* 📷 Live webcam frame processing
-* 🧠 CNN-based gesture classification
-* 🔬 OpenCV preprocessing pipeline
-* ⚙️ Flask REST API deployment
-* 🌐 Interactive JavaScript frontend
-* 🎯 Model optimization and tuning
+* 📷 Live webcam processing
+* 🧠 CNN classification
+* 🔬 OpenCV preprocessing
+* ⚙️ Flask API
+* 🌐 Interactive frontend
+* 🎯 Model optimization
 
-**Tech Stack**
+**Stack**
 
-`Python` `OpenCV` `TensorFlow` `Keras` `Flask` `JavaScript`
+`Python` `OpenCV` `TensorFlow` `Keras` `Flask`
 
-<br/>
+<br>
 
 <a href="https://github.com/srinivasJ29/HAND_SIGN_MODEL">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+View Repository →
 </a>
 
----
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ## 🌿 NatureKart
 
 ### AI-Powered Organic E-Commerce Platform
 
-A full-stack organic marketplace combining e-commerce functionality with an AI-powered health suggestion module.
+A full-stack organic marketplace combining modern e-commerce functionality with an AI-powered health suggestion module.
 
-**What I built**
+**Highlights**
 
-* 🛍️ Product browsing and discovery
-* 🛒 Shopping cart and secure checkout
+* 🛍️ Product discovery
+* 🛒 Shopping cart
+* 💳 Checkout
 * 📦 Order tracking
-* ❤️ Wishlist functionality
-* 🧠 AI-based health suggestions
-* 👤 Personalized product recommendations
-* 📊 Admin sales analytics
-* 💰 Revenue trend monitoring
-* ⚙️ Product, order and user management
+* ❤️ Wishlist
+* 🧠 AI health suggestions
+* 👤 Personalized recommendations
+* 📊 Sales analytics
+* 💰 Revenue insights
 
-**Tech Stack**
+**Stack**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `AI`
 
-<br/>
-
 <a href="https://github.com/srinivasJ29/E-commerce">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github" />
+View Repository →
 </a>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 # 💼 Professional Experience
 
-### Data Analytics Intern — Osiz Technologies
+### Data Analytics Intern
 
-**2025 · Madurai**
+**Osiz Technologies · 2025 · Madurai**
 
 During my internship, I worked with real-world business datasets and developed data analysis workflows.
 
-**Experience**
+### What I Worked On
 
-* 📊 Processed and analyzed business datasets
-* 🐍 Used Python and MySQL for data analysis
-* 📈 Built BI reports and dashboards
-* 🔍 Performed Exploratory Data Analysis
-* ⚙️ Applied feature engineering
-* 📊 Created data visualizations for reporting
-* 🤝 Collaborated within a cross-functional team
-* 🔄 Worked according to SDLC practices
+* 📊 Business dataset processing
+* 🐍 Python-based data analysis
+* 🗄️ MySQL data handling
+* 📈 BI reports and dashboards
+* 🔍 Exploratory Data Analysis
+* ⚙️ Feature engineering
+* 📊 Data visualization
+* 🤝 Cross-functional collaboration
+* 🔄 SDLC practices
 
 ---
 
-# 🏆 Certifications & Recognition
-
-<div align="center">
+# 🏆 Certifications & Learning
 
 ### 25+ Certifications
 
-| Area           | Highlights                  |
-| -------------- | --------------------------- |
-| 🤖 AI          | Anthropic AI Certifications |
-| ☁️ Cloud       | AWS / Cloud Computing       |
-| 💻 Programming | Core Java / Advanced Java   |
-| 🗄️ Database   | MongoDB / SQL               |
-| 🌐 Web         | Web Development             |
-| 📡 Technology  | NPTEL Certifications        |
+My learning journey covers:
 
-### 🤖 Anthropic
+| Area           | Focus                                 |
+| -------------- | ------------------------------------- |
+| 🤖 AI          | Generative AI, Claude, AI Engineering |
+| ☁️ Cloud       | AWS / Cloud Computing                 |
+| 💻 Programming | Java / Python                         |
+| 🗄️ Databases  | MongoDB / SQL                         |
+| 🌐 Web         | Full-Stack Development                |
+| 📊 Data        | Analytics & Visualization             |
+| 📚 NPTEL       | IoT, HCI, SNA, AI                     |
 
-`Claude with Amazon Bedrock`
-`Claude with Anthropic API`
-`Claude Code in Action`
-`Claude Code 101`
-`Model Context Protocol: Advanced Topics`
-`Introduction to Agent Skills`
-`AI Fluency: Framework & Foundations`
-`Introduction to Claude Cowork`
+### Anthropic
 
-### 📚 NPTEL
+* Claude with Amazon Bedrock
+* Claude with Anthropic API
+* Claude Code in Action
+* Claude Code 101
+* Model Context Protocol: Advanced Topics
+* Introduction to Agent Skills
+* AI Fluency: Framework & Foundations
+* Introduction to Claude Cowork
 
-`Internet of Things`
-`Human Computer Interaction`
-`Social Network Analysis`
-`Applied Accelerated Artificial Intelligence`
+### NPTEL
 
-</div>
+* Internet of Things
+* Human Computer Interaction
+* Social Network Analysis
+* Applied Accelerated Artificial Intelligence
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srinivasJ29&show_icons=true&hide_border=true&bg_color=080a0f&title_color=ffffff&text_color=9ca3af&icon_color=34d399" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasJ29&layout=compact&hide_border=true&bg_color=080a0f&title_color=ffffff&text_color=9ca3af" height="170" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=srinivasJ29&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasJ29&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=srinivasJ29&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srinivasJ29&hide_border=true&background=080a0f&ring=34d399&fire=60a5fa&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280" width="70%" />
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasJ29&theme=tokyo-night&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srinivasJ29&bg_color=080a0f&color=9ca3af&line=34d399&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -277,7 +278,7 @@ During my internship, I worked with real-world business datasets and developed d
 
 ### B.E. Computer Science and Engineering
 
-**PSNA College of Engineering and Technology, Dindigul**
+**PSNA College of Engineering and Technology**
 
 `2023 — 2027`
 
@@ -285,67 +286,83 @@ During my internship, I worked with real-world business datasets and developed d
 
 ---
 
-# 🧩 What I Like Building
+# 🧩 What I Build
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│   🤖 AI Applications        🌐 Full-Stack Platforms      │
+│     🤖 AI Applications       🌐 Full-Stack Platforms     │
 │                                                          │
-│   📊 Data Dashboards        🔌 REST APIs                 │
+│     📊 Data Dashboards       🔌 REST APIs                │
 │                                                          │
-│   🧠 ML Solutions           🗄️ Database Systems          │
+│     🧠 ML Solutions          🗄️ Database Systems         │
 │                                                          │
-│   ⚡ Automation              ☁️ Cloud-Integrated Apps    │
+│     ⚡ Automation             ☁️ Cloud Applications       │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🌱 Currently Growing
+# 🌱 Current Focus
 
 ```text
-AI / ML                 ███████████████████░░   90%
-Full Stack Development  ███████████████████░░   90%
-Backend Development     ██████████████████░░░   85%
-Data Analytics          █████████████████░░░░   80%
-Cloud                   ████████████░░░░░░░░░   60%
+Artificial Intelligence     ████████████████████░   90%
+Full Stack Development      ████████████████████░   90%
+Backend Development         ██████████████████░░░   85%
+Data Analytics              █████████████████░░░░   80%
+Cloud & Deployment          ████████████░░░░░░░░   60%
 ```
+
+---
+
+# 🎯 Engineering Philosophy
+
+> Build things that solve real problems.
+
+> Keep the architecture simple.
+
+> Learn by building.
+
+> Improve through iteration.
+
+> Ship useful software.
 
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in:
+I'm interested in:
 
-* 🚀 Building innovative software
+* 🚀 Innovative software products
 * 🤖 AI/ML applications
-* 💻 Full-stack development
+* 💻 Full-stack engineering
 * 📊 Data-driven solutions
-* 🤝 Collaborating on interesting projects
-* 🌱 Learning new technologies
+* ☁️ Cloud-integrated applications
+* 🤝 Open-source collaboration
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/srinivasJ29">
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/sri-nivas-">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:srinivasjeyakumar13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-10B981?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-<a href="https://github.com/srinivasJ29">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
+---
 
-<a href="https://linkedin.com/in/sri-nivas-">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+<p align="center">
 
-<a href="mailto:srinivasjeyakumar13@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-</a>
+### `BUILD · LEARN · SHIP`
 
-<br/><br/>
+⭐ If you find my work interesting, feel free to explore my repositories.
 
-### ⭐ If you find my work interesting, consider starring my repositories!
+</p>
 
-<br/>
-
-**© 2026 Srinivas J · Building • Learning • Innovating**
-
-</div>
+<p align="center">
+  <sub>© 2026 Srinivas J</sub>
+</p>
