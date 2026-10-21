@@ -1,228 +1,99 @@
-<!-- Premium light theme: white canvas, charcoal typography, warm yellow accents. GitHub controls the actual page background. -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:FFFFFF,55:FFF4C2,100:FACC15&text=S R I N I V A S%20J&fontColor=172033&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%2FML&descColor=374151&descSize=15&descAlignY=67&animation=fadeIn" alt="Srinivas J — Software Engineering and Applied AI/ML" />
+SRINIVAS J
+Software Developer · Applied AI/ML · Data-Driven Applications
 
+Building practical software across web development, machine learning, and data analytics.
 
-<a href="https://github.com/srinivasJ29"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=172033" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/sri-nivas-"><img src="https://img.shields.io/badge/LINKEDIN-FFF4C2?style=flat-square&logo=linkedin&logoColor=172033" alt="LinkedIn" /></a>
-<a href="mailto:srinivasjeyakumar13@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FACC15?style=flat-square&logo=gmail&logoColor=172033" alt="Email" /></a>
-
-
-
-I turn ideas into usable software — connecting interfaces, APIs, data, and intelligent features.
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=CA8A04&center=true&vCenter=true&width=680&lines=FULL-STACK+DEVELOPMENT;MACHINE+LEARNING+%26+COMPUTER+VISION;DATA-DRIVEN+APPLICATIONS;LEARN+%2F+BUILD+%2F+ITERATE" alt="Areas of focus" />
-
+GitHub · LinkedIn · Email
 </div>
 
-<table>
-<tr>
-<td valign="top" width="60%">
+Profile
+I am a final-year B.E. Computer Science and Engineering student at PSNA College of Engineering and Technology (2023–2027). I enjoy taking a problem from idea to implementation—working across user interfaces, APIs, data workflows, and intelligent features.
 
-ABOUT
-I'm a final-year B.E. Computer Science and Engineering student at PSNA College of Engineering and Technology (2023–2027).
+My current focus is strengthening software engineering fundamentals while building useful, maintainable applications in full-stack development, applied AI/ML, and data analytics.
+Approach: Understand the problem. Build a clear solution. Test it carefully. Improve it continuously.
 
-I enjoy building end-to-end applications: understanding the problem, shaping the data, developing APIs, designing the user experience, and testing the result. My interests sit across full-stack engineering, applied AI/ML, and data analytics.
-
-Currently focused on strengthening core engineering skills and building projects that are useful, explainable, and maintainable.
-</td>
-<td valign="top" width="40%">
-
-PROFILE
-	
-Focus	Full Stack · AI/ML
-Education	B.E. CSE
-Graduation	2027
-Experience	Software Development · Data Analytics
-Location	Tamil Nadu, India
+Technical Skills
+Area	Technologies
+Programming	Java, Python, JavaScript, SQL
+Frontend	React, HTML5, CSS3
+Backend & APIs	Node.js, Express.js, Flask
+AI / Machine Learning	TensorFlow, PyTorch, Keras, OpenCV
+Databases	MongoDB, MySQL
+Developer Tools	Git, GitHub, Postman
 
 
-</td>
-</tr>
-</table>
-
-TECH STACK  <sub>— tools I use to build</sub>
-<table>
-<tr>
-<td valign="top" width="50%">
-
-01 — BUILD
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL" />
-
-
-02 — WEB & APIs
-<img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
-<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" />
-
-</td>
-<td valign="top" width="50%">
-
-
-03 — AI / DATA
-<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Keras-FFFFFF?style=flat-square&logo=keras&logoColor=D00000" alt="Keras" />
-
-
-04 — DATA & TOOLS
-<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-FFFFFF?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
-
-</td>
-</tr>
-</table>
-
-FEATURED PROJECTS
-<table>
-<tr>
-<td valign="top" width="50%">
-
-01. EarthAI
-Environmental forecasting platform
-
-A machine-learning concept for forecasting CO₂ and NO₂ trends, presented through a web-based monitoring dashboard.
-- Regression-based prediction workflow
-- Environmental data exploration
-- React visualisation dashboard
-- Backend API integration
-Python TensorFlow PyTorch React Node.js
-
-VIEW REPOSITORY ↗
-</td>
-<td valign="top" width="50%">
-
-02. Hand Sign Recognition
-Real-time computer vision
-
-A webcam-based gesture classification project combining image processing, a CNN model, and a lightweight prediction interface.
-- Live frame processing with OpenCV
+Selected Projects
+01 · EarthAI — Environmental Forecasting
+A machine-learning project focused on forecasting CO₂ and NO₂ trends and presenting environmental insights through a web dashboard.
+- Environmental data exploration and prediction workflow
+- Dashboard-oriented visualisation
+- Frontend and backend integration
+Stack: Python · Machine Learning · React · Node.js
+Repository: GHG_Fusenet
+02 · Hand Sign Recognition
+A computer-vision project that classifies hand signs from webcam input and connects model predictions to a lightweight application interface.
+- Live image capture and frame processing with OpenCV
 - CNN-based gesture classification
-- Flask prediction endpoint
-- Browser-based interaction
-Python OpenCV TensorFlow Keras Flask
-
-VIEW REPOSITORY ↗
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-03. NatureKart
-Full-stack organic e-commerce
-
-A marketplace concept that combines a customer shopping journey with product/order administration and business analytics.
-CUSTOMER FEATURES	ADMIN FEATURES
-Product discovery, cart, wishlist	Product and order management
+- Flask endpoint for prediction and browser interaction
+Stack: Python · OpenCV · TensorFlow · Keras · Flask
+Repository: HAND_SIGN_MODEL
+03 · NatureKart — Organic E-Commerce
+A full-stack e-commerce application concept for organic products, bringing customer shopping flows and administrative operations together.
+Customer experience	Administration
+Product discovery, cart, and wishlist	Product and order management
 Checkout and order tracking	User management
-AI-based health suggestion feature	Sales analytics and revenue trends
+AI-based health suggestion feature	Sales and revenue analytics
 
 
-React Node.js Express.js MongoDB
-
-VIEW REPOSITORY ↗
-</td>
-</tr>
-</table>
-
-EXPERIENCE
-<details open>
-<summary><strong>Software Developer Intern</strong> · SSM Groups Private Limited · July–August 2026</summary>
-
+Stack: React · Node.js · Express.js · MongoDB
+Repository: E-commerce
+Experience
+Software Developer Intern
+SSM Groups Private Limited · July–August 2026
 - Contributed to feature development, testing, and debugging.
 - Supported improvements across frontend and backend components.
-- Collaborated through Git-based workflows and iterative development.
-</details>
-
-<details>
-<summary><strong>Data Analytics Intern</strong> · Osiz Technologies, Madurai · 2025</summary>
-
+- Worked through iterative development and Git-based collaboration.
+Data Analytics Intern
+Osiz Technologies, Madurai · 2025
 - Analysed business datasets using Python and MySQL.
-- Prepared BI reports and dashboards for data-informed decisions.
-- Applied exploratory data analysis, feature engineering, and visualisation.
-- Collaborated with a cross-functional team following SDLC practices.
-</details>
-
-CURRENT LEARNING ROADMAP
-A focused roadmap for moving from prototypes to production-minded applications.
-<table>
-<tr>
-<th>AREA</th>
-<th>TECHNICAL DIRECTION</th>
-</tr>
-<tr>
-<td><strong>LLM systems</strong></td>
-<td>RAG, embeddings, semantic retrieval, grounded responses, and evaluation.</td>
-</tr>
-<tr>
-<td><strong>Agent workflows</strong></td>
-<td>Tool calling, MCP integrations, constrained execution, and human approval.</td>
-</tr>
-<tr>
-<td><strong>Backend engineering</strong></td>
-<td>Authentication, role-based access, input validation, API testing, rate limits, and structured logs.</td>
-</tr>
-<tr>
-<td><strong>Deployment</strong></td>
-<td>Docker, GitHub Actions, CI/CD, cloud hosting, health checks, and configuration management.</td>
-</tr>
-<tr>
-<td><strong>ML engineering</strong></td>
-<td>Reproducible preprocessing, baseline comparisons, model evaluation, and experiment tracking.</td>
-</tr>
-</table>
-
-
-<sub>These are learning goals, not claims of production-level experience. I add technologies to my proven skill set as I implement and validate them.</sub>
-EDUCATION & CREDENTIALS
+- Prepared BI reports and dashboards to communicate findings.
+- Applied exploratory data analysis, feature engineering, and data visualisation.
+- Collaborated with team members within the software development life cycle.
+Education
 B.E. Computer Science and Engineering
 PSNA College of Engineering and Technology · 2023–2027
-CGPA shown on supplied resume: 7.94
 
-Selected certifications
+CGPA: 7.94 (as listed in my resume)
+Certifications
 - NPTEL — Human Computer Interaction · Elite + Gold
 - NPTEL — Introduction to Internet of Things · Silver
 - NPTEL — Social Network Analysis
-- NPTEL — Applied Accelerated Artificial Intelligence
+- NPTEL — Accelerated Artificial Intelligence
 - Anthropic — Introduction to Agent Skills
 - Anthropic — Model Context Protocol: Advanced Topics
 - Anthropic — Claude Code in Action
 - Google for Education — Gemini Certified Student
 - Microsoft — Generative AI
-GITHUB ACTIVITY
+Current Learning Focus
+Focus	What I am developing
+LLM applications	Retrieval-augmented generation (RAG), embeddings, semantic search, and response evaluation
+AI agents	Tool calling, MCP integrations, and controlled agent workflows
+Backend engineering	Authentication, role-based access, input validation, API testing, and structured logging
+Deployment	Docker, CI/CD, cloud hosting, and application health checks
+ML engineering	Reproducible preprocessing, model evaluation, and experiment tracking
+
+
+These are learning goals; I list technologies as proven skills only as I implement and validate them.
+Connect
+I am interested in opportunities and collaborations involving software development, applied AI/ML, data-driven products, and open-source projects.
+- GitHub: github.com/srinivasJ29
+- LinkedIn: linkedin.com/in/sri-nivas-
+- Email: srinivasjeyakumar13@gmail.com
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivasJ29&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasJ29&layout=compact&hide_border=true&theme=transparent" alt="Top languages in public repositories" />
-<br/><br/>
-<img width="82%" src="https://streak-stats.demolab.com?user=srinivasJ29&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+
+Build with purpose. Keep learning. Ship thoughtfully.
+
+<sub>Designed as a lightweight, text-first profile README. No external image, badge, animation, or stats services required.</sub>
 </div>
-
-<sub>GitHub cards are provided by third-party services and may occasionally be unavailable. Language distribution reflects repository contents, not proficiency.</sub>
-<div align="center">
-
-HAVE A USEFUL PROBLEM TO SOLVE?
-I'm interested in software engineering, applied AI/ML, data-driven applications, and open-source collaboration.
-
-<a href="mailto:srinivasjeyakumar13@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-FACC15?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Srinivas" /></a>
-<a href="https://github.com/srinivasJ29"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-FACC15?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
-
-
-
-THINK CLEARLY · BUILD CAREFULLY · KEEP IMPROVING
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:FFFFFF,50:FFF4C2,100:FACC15" alt="" />
-
-
-<sub>© 2026 Srinivas J</sub>
-</div>
-
