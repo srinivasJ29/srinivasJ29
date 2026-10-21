@@ -1,17 +1,18 @@
+<!-- Premium light theme: white canvas, charcoal typography, warm yellow accents. GitHub controls the actual page background. -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:070B14,50:101B31,100:123B5D&text=S R I N I V A S%20J&fontColor=F8FAFC&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%2FML&descSize=15&descAlignY=67&animation=fadeIn" alt="Srinivas J — Software Engineering and Applied AI/ML" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0:FFFFFF,55:FFF4C2,100:FACC15&text=S R I N I V A S%20J&fontColor=172033&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20APPLIED%20AI%2FML&descColor=374151&descSize=15&descAlignY=67&animation=fadeIn" alt="Srinivas J — Software Engineering and Applied AI/ML" />
 
 
-<a href="https://github.com/srinivasJ29"><img src="https://img.shields.io/badge/GITHUB-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/sri-nivas-"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:srinivasjeyakumar13@gmail.com"><img src="https://img.shields.io/badge/CONTACT-334155?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/srinivasJ29"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=flat-square&logo=github&logoColor=172033" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/sri-nivas-"><img src="https://img.shields.io/badge/LINKEDIN-FFF4C2?style=flat-square&logo=linkedin&logoColor=172033" alt="LinkedIn" /></a>
+<a href="mailto:srinivasjeyakumar13@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FACC15?style=flat-square&logo=gmail&logoColor=172033" alt="Email" /></a>
 
 
 
 I turn ideas into usable software — connecting interfaces, APIs, data, and intelligent features.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=93C5FD&center=true&vCenter=true&width=680&lines=FULL-STACK+DEVELOPMENT;MACHINE+LEARNING+%26+COMPUTER+VISION;DATA-DRIVEN+APPLICATIONS;LEARN+%2F+BUILD+%2F+ITERATE" alt="Areas of focus" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=CA8A04&center=true&vCenter=true&width=680&lines=FULL-STACK+DEVELOPMENT;MACHINE+LEARNING+%26+COMPUTER+VISION;DATA-DRIVEN+APPLICATIONS;LEARN+%2F+BUILD+%2F+ITERATE" alt="Areas of focus" />
 
 </div>
 
@@ -41,49 +42,49 @@ Location	Tamil Nadu, India
 </tr>
 </table>
 
-/ TECH STACK
+TECH STACK  <sub>— tools I use to build</sub>
 <table>
 <tr>
 <td valign="top" width="50%">
 
 01 — BUILD
-<img src="https://img.shields.io/badge/Java-172033?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-172033?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-172033?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/SQL-172033?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL" />
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=openjdk&logoColor=F89820" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1" alt="SQL" />
 
 
 02 — WEB & APIs
-<img src="https://img.shields.io/badge/React-172033?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-172033?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-172033?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/Node.js-172033?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-172033?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
-<img src="https://img.shields.io/badge/Flask-172033?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" />
+<img src="https://img.shields.io/badge/React-FFFFFF?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-FFFFFF?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-FFFFFF?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-FFFFFF?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=FFFFFF" alt="Flask" />
 
 </td>
 <td valign="top" width="50%">
 
 
 03 — AI / DATA
-<img src="https://img.shields.io/badge/TensorFlow-172033?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/PyTorch-172033?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-<img src="https://img.shields.io/badge/OpenCV-172033?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-<img src="https://img.shields.io/badge/Keras-172033?style=flat-square&logo=keras&logoColor=D00000" alt="Keras" />
+<img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+<img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
+<img src="https://img.shields.io/badge/Keras-FFFFFF?style=flat-square&logo=keras&logoColor=D00000" alt="Keras" />
 
 
 04 — DATA & TOOLS
-<img src="https://img.shields.io/badge/MongoDB-172033?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-<img src="https://img.shields.io/badge/MySQL-172033?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-172033?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-172033?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/Postman-172033?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
+<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-FFFFFF?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL" />
+<img src="https://img.shields.io/badge/Git-FFFFFF?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img src="https://img.shields.io/badge/Postman-FFFFFF?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
 
 </td>
 </tr>
 </table>
 
-/ FEATURED PROJECTS
+FEATURED PROJECTS
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -135,7 +136,7 @@ VIEW REPOSITORY ↗
 </tr>
 </table>
 
-/ EXPERIENCE
+EXPERIENCE
 <details open>
 <summary><strong>Software Developer Intern</strong> · SSM Groups Private Limited · July–August 2026</summary>
 
@@ -153,7 +154,7 @@ VIEW REPOSITORY ↗
 - Collaborated with a cross-functional team following SDLC practices.
 </details>
 
-/ WHAT I'M BUILDING TOWARD
+CURRENT LEARNING ROADMAP
 A focused roadmap for moving from prototypes to production-minded applications.
 <table>
 <tr>
@@ -184,7 +185,7 @@ A focused roadmap for moving from prototypes to production-minded applications.
 
 
 <sub>These are learning goals, not claims of production-level experience. I add technologies to my proven skill set as I implement and validate them.</sub>
-/ EDUCATION & CREDENTIALS
+EDUCATION & CREDENTIALS
 B.E. Computer Science and Engineering
 PSNA College of Engineering and Technology · 2023–2027
 CGPA shown on supplied resume: 7.94
@@ -199,7 +200,7 @@ Selected certifications
 - Anthropic — Claude Code in Action
 - Google for Education — Gemini Certified Student
 - Microsoft — Generative AI
-/ GITHUB ACTIVITY
+GITHUB ACTIVITY
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=srinivasJ29&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasJ29&layout=compact&hide_border=true&theme=transparent" alt="Top languages in public repositories" />
@@ -213,14 +214,15 @@ Selected certifications
 HAVE A USEFUL PROBLEM TO SOLVE?
 I'm interested in software engineering, applied AI/ML, data-driven applications, and open-source collaboration.
 
-<a href="mailto:srinivasjeyakumar13@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Srinivas" /></a>
-<a href="https://github.com/srinivasJ29"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
+<a href="mailto:srinivasjeyakumar13@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-FACC15?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Srinivas" /></a>
+<a href="https://github.com/srinivasJ29"><img src="https://img.shields.io/badge/EXPLORE_MY_CODE-FACC15?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub" /></a>
 
 
 
 THINK CLEARLY · BUILD CAREFULLY · KEEP IMPROVING
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:123B5D,50:101B31,100:070B14" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&section=footer&color=0:FFFFFF,50:FFF4C2,100:FACC15" alt="" />
 
 
 <sub>© 2026 Srinivas J</sub>
 </div>
+
